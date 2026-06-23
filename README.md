@@ -192,3 +192,23 @@ CUSTOMERS (1) ---- (N) NOTES
 - Prisma
 - JWT
 - Bcrypt
+
+## API Endpoints
+
+### Authentication
+
+POST /api/auth/register
+POST /api/auth/login
+
+### Customers
+
+GET /api/customers
+GET /api/customers/:id
+POST /api/customers
+PUT /api/customers/:id
+DELETE /api/customers/:id
+
+### Notes
+
+GET /api/notes/:customerId
+POST /api/notes/:customerId
