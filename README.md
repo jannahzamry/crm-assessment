@@ -212,3 +212,7 @@ DELETE /api/customers/:id
 
 GET /api/notes/:customerId
 POST /api/notes/:customerId
+
+## Live API URL
+
+https://crm-assessment-api.onrender.com
