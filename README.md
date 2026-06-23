@@ -215,4 +215,26 @@ POST /api/notes/:customerId
 
 ## Live API URL
 
-https://crm-assessment-api.onrender.com
+https://crm-assessment-api.onrender.com/
+
+## GitHub Repository
+
+https://github.com/jannahzamry/crm-assessment
+
+# CRM Assessment Project
+
+## ER Diagram
+
+![ER Diagram](screenshots/er-diagram.png)
+
+## GitHub Actions CI
+
+![GitHub Actions](screenshots/github-actions.png)
+
+## Deployment
+
+![Deployment](screenshots/deployment.png)
+
+## API Testing
+
+![API Testing](screenshots/api-test.png)
